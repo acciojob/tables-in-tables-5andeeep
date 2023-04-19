@@ -1,2 +1,36 @@
+.main-table{
+    width: 50%;
+    height: 400px;
+    text-align: center;
+}
 
-/* Your CSS Code here. */
+.td-1{
+    width: 50%;
+}
+/* .table2-th{
+    font-weight: bold;
+} */
+
+.table-1{
+    width: 100%;
+    text-align: center;
+}
+
+.table-2{
+    width: 100%;
+    text-align: center;
+}
+
+.table-3{
+    width: 100%;
+    text-align: center;
+}
+
+.table-4{
+    width: 100%;
+    text-align: center;
+}
+.table-4 td{
+    background-color: black;
+    color: white;
+}
